@@ -1,0 +1,3 @@
+docker-compose logs
+
+para que te tire el qr para configurar la app
